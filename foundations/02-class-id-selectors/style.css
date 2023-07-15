@@ -5,7 +5,7 @@
 }
 
 #dos {
-  text-color: #0000ff;
+  color: #0000ff;
   font-size: 36px;
 }
 
@@ -15,6 +15,6 @@
   font-weight: bold;
 }
 
-.odd.cooler {
+.cooler {
   font-size: 24px;
 }
