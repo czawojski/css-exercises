@@ -5,14 +5,3 @@
         align: center;
         font-weight: bold;
       }
-
-      p {
-        background-color: green;
-        text: white;
-        font-size: 18px;
-      }
-
-      button {
-        background-color: orange;
-        font-size: 18px;
-      }
