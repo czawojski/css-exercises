@@ -20,14 +20,6 @@ ul {
   list-style-type: none;
 }
 
-.left-links {
-  justify-content: flex-start;
-}
-
-.right-links {
-  justify-content: flex-end;
-}
-
 a {
   font-size: 22px;
   background: white;
