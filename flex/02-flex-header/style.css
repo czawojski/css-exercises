@@ -16,7 +16,6 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   justify-content: space-around;
-  align-items: center;
 }
 
 .left-links {
