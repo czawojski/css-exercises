@@ -19,6 +19,14 @@ ul {
   list-style-type: none;
 }
 
+.left-links {
+  justify-self: start;
+}
+
+.right-links {
+  justify-self: end;
+}
+
 a {
   font-size: 22px;
   background: white;
