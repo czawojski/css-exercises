@@ -7,7 +7,6 @@ img {
   height: 100px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   gap: 52px;
   flex-wrap: wrap;
 }
