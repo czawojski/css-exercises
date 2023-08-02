@@ -33,17 +33,16 @@ input {
   right: 0;
   height: 52px;
   display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: space-between;
   background: #eee;
-  padding: 8px;
+  padding: 16px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 8px;
+  padding: 16px;
 }
 
 a {
