@@ -47,6 +47,7 @@ input {
 
 a {
   text-decoration: none;
+  color: gray;
 }
 
 ul {
@@ -69,7 +70,6 @@ ul {
   display: flex;
   align-items: center;
   gap: 16px;
-  color: gray;
 }
 
 .right-links {
@@ -77,5 +77,4 @@ ul {
   display: flex;
   align-items: center;
   gap: 16px;
-  color: gray;
 }
