@@ -46,7 +46,8 @@ input {
 }
 
 a {
-  color: brown;
+  color: gray;
+  text-decoration: none;
 }
 
 ul {
