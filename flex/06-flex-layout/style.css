@@ -33,9 +33,9 @@ input {
   right: 0;
   height: 52px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   background: #eee;
 }
 
