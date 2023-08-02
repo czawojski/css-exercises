@@ -64,8 +64,10 @@ ul {
 
 .left-links {
   justify-content: flex-start;
+  gap: 30px;
 }
 
 .right-links {
   justify-content: flex-end;
+  gap: 30px;
 }
