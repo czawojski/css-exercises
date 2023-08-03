@@ -47,7 +47,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   display: flex;
-  text-align: center;
+  text-align: start;
   justify-content: flex-start;
   padding: 8px;
 }
