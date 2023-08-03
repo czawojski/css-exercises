@@ -57,6 +57,7 @@ body {
   justify-content: space-between;
   flex-direction: row;
   padding: 32px;
+  gap: 16px;
 }
 
 .maincontainer {
